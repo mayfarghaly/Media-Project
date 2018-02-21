@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="RegresstionTestCases" parallel="classes" thread-count="1">
+	<test name="RegresstionTestCases">
+		<classes>
+			<class name="testCases.HomeTest" />
+			<class name="testCases.GamesTest" />
+			<class name="testCases.SelectGameTest" /> 
+			<class name="testCases.CheckOutTest" />
+		</classes>
+
+	</test>
+</suite>
